@@ -13,6 +13,10 @@
     "kindof" : "I'm a kind of person who's",
     "softskill" :  ["Adaptable", "Fast Learner", "Helpful", "Motivated"],
     "hard" : ["C", "CSS", "HTML", "JavaScript", "MySql"],
-    "recent" : "https://kenramos.netlify.app/"
+    "recent" : "https://kenramos.netlify.app/",
+    "careerlb" : "",
+    "educationlb" : "CAREER OBJECTIVE",
+    "skillslb" : "SKILLS",
+    "recentprolb" : "RECENT PROJECT",
   }
 ]

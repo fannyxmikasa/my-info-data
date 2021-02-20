@@ -6,7 +6,7 @@
     "extra" : "Computer Science Society",
     "skills" : {
       "soft" : ["Adaptable", "Fast Learner", "Helpful", "Motivated"],
-      "hard" : ["C", "CSS", "HTML", "JavaScript", "MySql"]
+      "hard" : ["C", "CSS", "HTML", "JavaScript", "MySql", "Python"]
     },
     "recent" : "https://kenramos.netlify.app/"
   }

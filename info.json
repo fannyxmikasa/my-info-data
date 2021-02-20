@@ -14,8 +14,8 @@
     "softskill" :  ["Adaptable", "Fast Learner", "Helpful", "Motivated"],
     "hard" : ["C", "CSS", "HTML", "JavaScript", "MySql"],
     "recent" : "https://kenramos.netlify.app/",
-    "careerlb" : "",
-    "educationlb" : "CAREER OBJECTIVE",
+    "careerlb" : "CAREER OBJECTIVE",
+    "educationlb" : "EDUCATION",
     "skillslb" : "SKILLS",
     "recentprolb" : "RECENT PROJECT"
   }

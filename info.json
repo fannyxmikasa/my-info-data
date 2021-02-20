@@ -11,8 +11,8 @@
     "extra" : "Computer Science Society",
     "extradefine" : "( Computing Solutions for Systematic World )",
     "kindof" : "I'm a kind of person who's",
-    "skills" :{
-      "soft" :  ["Adaptable", "Fast Learner", "Helpful", "Motivated"],
+    "skills" : {
+      "soft" : ["Adaptable", "Fast Learner", "Helpful", "Motivated"],
       "hard" : ["C", "CSS", "HTML", "JavaScript", "MySql"]
     },
     "recent" : "https://kenramos.netlify.app/",

@@ -9,16 +9,10 @@
     "education" : "Bachelor of Science in Computer Science",
     "exp": "( Expected Graduation 2022)",
     "extra" : "Computer Science Society",
-    "extradefine" : "( Computing Solutions for Systematic World )",
-    "kindof" : "I'm a kind of person who's",
     "skills" : {
       "soft" : ["Adaptable", "Fast Learner", "Helpful", "Motivated"],
       "hard" : ["C", "CSS", "HTML", "JavaScript", "MySql"]
     },
-    "recent" : "https://kenramos.netlify.app/",
-    "careerlb" : "CAREER OBJECTIVE",
-    "educationlb" : "EDUCATION",
-    "skillslb" : "SKILLS",
-    "recentprolb" : "RECENT PROJECT"
+    "recent" : "https://kenramos.netlify.app/"
   }
 ]
